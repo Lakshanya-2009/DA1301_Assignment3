@@ -1,0 +1,5 @@
+git status-shows the current status of the repository.
+git add-Adds changes to the staging area.
+git commit-saves changes as a commit.
+git push-Uploads commits to GitHub.
+git pull-Downloads the latest changes from GitHub.
