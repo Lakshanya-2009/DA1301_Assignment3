@@ -2,14 +2,18 @@
 
 ## Lakshanya
 
-I am Lakshanya from Andhra pradesh
+I am Lakshanya from Andhra pradesh. 
+I am in AIDA branch.
 
-## What I learned
+## My Interests and Hobbies
 
-I learned how Git can be used to track changes in files and now GitHub can be used to store and share repositories online.
+- Coding and programming
+- Listening to music
 
-### Git Concepts
+## What I found Interesting About Git
 
--Git tracks changes in files
--Git allows us to create branches
--GitHub can store and share repositories online
+I found it interesting that git keeps track of changes made to files and allows us to go back to earlier versions.
+
+## Useful Git Command
+**git status** - It shows the current state of the working directory and tells us which files have been modified, staged, or are untracked.
+
