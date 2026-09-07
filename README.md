@@ -17,3 +17,5 @@ I found it interesting that git keeps track of changes made to files and allows 
 ## Useful Git Command
 **git status** - It shows the current state of the working directory and tells us which files have been modified, staged, or are untracked.
 
+## What I Learned
+I am learning how Git and GitHub work together.
